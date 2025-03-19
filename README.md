@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @Opasnatikva
 - 👀 I’m interested in improving my knowledge and skills
-- 🌱 I’m currently learning Python, Flask.
+- ⚗️ Before programming I worked as a system administrator. I have worked with Windows, and Linux, Azure, AWS, Windows Server, Active Directory, Cisco, Juniper, PVX, PBX.
+- ⚜️ I'm experienced with Python, embedded programming, network automation, backend web development.
+- 🌱 I’m currently working as a backend web developer with Python, flask and fastAPI.
 - 💞️ I’m looking to collaborate on anything that could help me on my path of learning
 - 📫 How to reach me : only on this website for the moment.
 
